@@ -1,0 +1,32 @@
+-------------------------
+Login Attempts Report
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total login attempts: 1000
+Successful logins: 478
+Failed logins: 1
+Attempts from internal IPs: 4
+Attempts from external IPs: 996

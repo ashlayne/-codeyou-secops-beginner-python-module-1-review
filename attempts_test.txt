@@ -1,0 +1,34 @@
+-------------------------
+Login Attempts Report
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total login attempts: 8
+Successful logins: 4
+Failed logins: 2
+Attempts from internal IPs: 5
+Attempts from external IPs: 3
++++++++++++++++++++++++++
+Warning: username bob had 3 failed login attempts from IP address 8.8.8.8. Possible brute force attempt.
